@@ -25,3 +25,32 @@ Detects suspicious links based on specific keywords.
 🟦 What is the purpose?
 To analyze websites, not to attack.
 All information collected is public data.
+
+
+# Instalation:Linux:
+```
+sudo apt install git -y
+python3 -m venv venv
+source venv/bin.activate
+pip install requests
+pip install PyQt5
+pip install pythondns
+pip instal bs4
+https://github.com/Z-BL4CX-H4T/SH4DOW-SCANV2.git
+cd SH4DOW-SCANV2
+python3 sh4dow-scanv2.py
+```
+
+# Instalation:Termux:
+```
+pkg install git -y
+pip install requests
+pip install PyQt5
+pip install pythondns
+pip instal bs4
+https://github.com/Z-BL4CX-H4T/SH4DOW-SCANV2.git
+cd SH4DOW-SCANV2
+python3 sh4dow-scanv2.py
+```
+
+Thnaks Mbud
